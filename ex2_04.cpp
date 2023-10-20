@@ -12,7 +12,7 @@ int main()
     unsigned int feet{};        // Whole feet
     unsigned int inches{};      // Whole inches
 
-    std::cout << "Enter a length in yartds as a decimal: ";
+    std::cout << "Enter a length in yards as a decimal: ";
     std::cin >> length;
 
     // Get the length as yards, feet, and inches
